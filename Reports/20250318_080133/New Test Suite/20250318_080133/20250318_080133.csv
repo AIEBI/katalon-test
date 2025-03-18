@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 134.0.6998.89,,,18-03-2025 08:01:47,18-03-2025 08:02:00,13.095s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 134.0.6998.89,,,18-03-2025 08:01:48,18-03-2025 08:02:00,12.541s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.89,,,18-03-2025 08:01:48,18-03-2025 08:01:54,5.635s,PASSED
+"navigateToUrl(""http://3.91.5.249/wordpress/"")",Chrome 134.0.6998.89,,,18-03-2025 08:01:54,18-03-2025 08:01:59,4.710s,PASSED
+"click(findTestObject(""Object Repository/Page_Equinox Constructions/a_Equinox Constructions""))",Chrome 134.0.6998.89,,,18-03-2025 08:01:59,18-03-2025 08:02:00,1.670s,PASSED

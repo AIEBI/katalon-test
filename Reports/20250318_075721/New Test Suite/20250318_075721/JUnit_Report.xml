@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="16.224" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="16.224" skipped="0" timestamp="18-03-2025T07:57:39" hostname="ebiig - desktop" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\ebiig\\Katalon Studio\\My First Web UI Project\\Reports\\20250318_075721\\New Test Suite\\20250318_075721"/>
+         <property name="logFiles" value="C:\\Users\\ebiig\\Katalon Studio\\My First Web UI Project\\Reports\\20250318_075721\\New Test Suite\\20250318_075721\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ebiig - desktop"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.1.1.0"/>
+         <property name="browser" value="Chrome 134.0.6998.89"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="a535c225f34b94509c12fa3c5c768462"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" time="15.666" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[18-03-2025T07:57:39 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+18-03-2025T07:57:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-03-2025T07:57:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+18-03-2025T07:57:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-03-2025T07:57:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-03-2025T07:57:49 - [TEST_STEP][PASSED] - navigateToUrl("http://3.91.5.249/wordpress/"): Navigate to 'http://3.91.5.249/wordpress/' successfully
+
+18-03-2025T07:57:53 - [MESSAGE][PASSED] - Navigate to 'http://3.91.5.249/wordpress/' successfully
+
+18-03-2025T07:57:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Equinox Constructions/a_Equinox Constructions")): Object: 'Object Repository/Page_Equinox Constructions/a_Equinox Constructions' is clicked on
+
+18-03-2025T07:57:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Equinox Constructions/a_Equinox Constructions' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-03-2025T07:57:39 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/New Test Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
